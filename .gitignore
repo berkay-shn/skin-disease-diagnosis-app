@@ -1,0 +1,62 @@
+# General
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.metadata
+devtools_options.yaml
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+.pub-cache/
+build/
+
+# Android
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/app/.cxx/
+android/app/google-services.json
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# AI / Model files
+*.h5
+*.tflite
+*.pt
+*.pth
+*.pkl
+*.onnx
+
+# Dataset
+data/
+dataset/
+datasets/
+IMG_CLASSES/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+.env.*
+
+# Build outputs
+*.apk
+*.aab
+*.zip
+*.rar
