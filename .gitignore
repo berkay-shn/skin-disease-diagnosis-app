@@ -62,3 +62,4 @@ __pycache__/
 *.rar
 
 !mobile_app/lib/data/
+!mobile_app/lib/data/**
