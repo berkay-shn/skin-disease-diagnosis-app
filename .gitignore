@@ -60,3 +60,5 @@ __pycache__/
 *.aab
 *.zip
 *.rar
+
+!mobile_app/lib/data/
